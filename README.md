@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     </style>
 <body>
     <h1>Welcome to the home page of PDB</h1>
-    <p>欢迎来到PDB的个人主页</p>
+    <h6>欢迎来到PDB的个人主页</h6>
       
 
     
