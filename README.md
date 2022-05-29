@@ -21,10 +21,8 @@ Here are some ideas to get you started:
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-    <style>
-    </style>
 <body>
-    <h1>Welcome to the home page of PDB
+<!--     <h1>Welcome to the home page of PDB -->
     <h6>欢迎来到PDB的个人主页</h6>
     </h1>
     
