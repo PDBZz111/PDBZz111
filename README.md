@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <style>
     </style>
 <body>
-      <center><h1>Welcome to the home page of PDB</h1><</center>
+      <center><h1>Welcome to the home page of PDB</h1></center>
 
     
 </body>
