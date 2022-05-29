@@ -20,10 +20,12 @@ Here are some ideas to get you started:
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
 </head>
+    <style>
+        
+    </style>
 <body>
-    <h1>我过去31天的活动</h1>
-      <div>PDB</div>
+      <h1>PDB的个人主页</h1>
+    
 </body>
 </html>
