@@ -22,10 +22,9 @@ Here are some ideas to get you started:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
     <style>
-        
     </style>
 <body>
-      <h1>PDB的个人主页</h1>
+      <h1>Welcome to the home page of PDB</h1>
     
 </body>
 </html>
