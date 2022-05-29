@@ -25,6 +25,7 @@ Here are some ideas to get you started:
     <div><img src="touxiang.gif"></div>
     <p><h1>欢迎来到PDB的个人主页</h1></p>
     <h6>Welcome to the home page of PDB</h6>
+    <center>欢迎来到PDB的个人主页</center>
     
    
     
