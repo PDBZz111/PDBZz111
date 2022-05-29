@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </head>
 <body>
 <!--     <h1>Welcome to the home page of PDB -->
-    <p><h1>欢迎来到PDB的个人主页</h1></p>
+    <img src="touxiang.gif"><p><h1>欢迎来到PDB的个人主页</h1></p>
     <h6>Welcome to the home page of PDB</h6>
     
    
