@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <!DOCTYPE html>
 <html lang="en">
 <h1 align="center">Welcome to the home page of PDB</h1>
-<h6 align="center">欢迎来到PDB的个人主页</h6>
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 <h3>你好，我是 PDB</h3>
 <div>💬 如果你对我感兴趣,可以加我社交好友进一步交流</div>
