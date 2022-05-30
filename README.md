@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <a href="https://space.bilibili.com/404892962"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
     <a href="https://www.zhihu.com/people/xiao-zhang-zhang-61-10"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
     
-    ###🙋 Hi there 👋
+    # 🙋 Hi 
     
    
 </body>
