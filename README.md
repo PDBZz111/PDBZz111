@@ -25,7 +25,39 @@ Here are some ideas to get you started:
 <a href="https://space.bilibili.com/404892962"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 <a href="https://www.zhihu.com/people/xiao-zhang-zhang-61-10"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
-<h2>🙋 Hello</h2>
-<p>大家好，我是PDBZz!热爱计算机科学和IT互联网事业，励志成为一名资深程序员!<br>
-Hello, I am pdbzz! Love computer science and it Internet business, and aspire to be a senior programmer!</p>
+<h1>🙋 Hello</h1>
+  <p>✍️大家好，我是PDBZz!热爱计算机科学和IT互联网事业，励志成为一名资深程序员! </p><br>
+  <p>我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系;</p><br>
+  <div align="center">
+  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
+  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
+  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
+  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
+  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
+  <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
+  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
+  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
+</div>
+  
+  💪 正在学习: 
+
+&emsp;&emsp;
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+
+  
+  🧰 常用的工具:
+
+&emsp;&emsp; 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 </html>
