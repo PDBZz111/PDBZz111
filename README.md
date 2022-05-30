@@ -24,11 +24,8 @@ Here are some ideas to get you started:
 <body>
     <h1 align="center">Welcome to the home page of PDB</h1>
     <h6 align="center">欢迎来到PDB的个人主页</h6>
+    <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
     
    
-    
-      
-
-    
 </body>
 </html>
