@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a href="http://my.sina.com.cn/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
 <h1>🙋 Hello</h1>
-  <p>✍️大家好，我是PDBZz!热爱计算机科学和IT互联网事业，励志成为一名资深程序员! </p>
+  <p>大家好，我是PDBZz!热爱计算机科学和IT互联网事业，励志成为一名资深程序员! </p>
   <p>我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系;</p><br>
   <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
