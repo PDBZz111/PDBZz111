@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+![vue](https://camo.githubusercontent.com/6a0785e82e16ea45751fd6186de8f46644001c014dacf128320a7775bb4526b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5675652532302d2532333262333834372e7376673f6c6f676f3d7675652e6a73)
 
   
   🧰 常用的工具:
