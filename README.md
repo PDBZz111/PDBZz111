@@ -73,9 +73,9 @@ Here are some ideas to get you started:
 <!-- START_SECTION:blog -->
 * <a href='https://img.shields.io/badge/%3Cqq.com%3E-%3C%E9%82%AE%E7%AE%B1%3E-%3CCOLOR%3E' target='_blank'>小图标制造！</a> - 2022-5-30
 * <a href='https://code.visualstudio.com/' target='_blank'>vscode编译器！</a> - 2022-5-30
-* <a href='https://www.bilibili.com/video/BV1Kg411T7t9' target='_blank'>html+css基础</a> - 2022-5-30
-* <a href='https://www.bilibili.com/video/BV1ux411d75J' target='_blank'>JavaScript基础</a> - 2022-5-30
-* <a href='https://www.bilibili.com/video/BV1zq4y1p7ga' target='_blank'>vue2.0-vue3.0基础</a> - 2022-5-30
+* <a href='https://www.bilibili.com/video/BV1Kg411T7t9' target='_blank'>html+css基础!</a> - 2022-5-30
+* <a href='https://www.bilibili.com/video/BV1ux411d75J' target='_blank'>JavaScript基础!</a> - 2022-5-30
+* <a href='https://www.bilibili.com/video/BV1zq4y1p7ga' target='_blank'>vue2.0-vue3.0基础!</a> - 2022-5-30
 <!-- END_SECTION:blog -->
   **I'm an Early 🐤** 
 
