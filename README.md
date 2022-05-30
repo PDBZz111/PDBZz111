@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 <h1 align="center">Welcome to the home page of PDB</h1>
 <h6 align="center">欢迎来到PDB的个人主页</h6>
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
-<div>你好，我是 PDb</div>
+<h3>你好，我是 PDB</h3>
 <div>💬 如果你对我感兴趣,可以加我社交好友进一步交流</div>
 <br>
 <a href="https://space.bilibili.com/404892962"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 <a href="https://www.zhihu.com/people/xiao-zhang-zhang-61-10"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
 <h1>🙋 Hello</h1>
-  <p>✍️大家好，我是PDBZz!热爱计算机科学和IT互联网事业，励志成为一名资深程序员! </p><br>
+  <p>✍️大家好，我是PDBZz!热爱计算机科学和IT互联网事业，励志成为一名资深程序员! </p>
   <p>我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系;</p><br>
   <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
