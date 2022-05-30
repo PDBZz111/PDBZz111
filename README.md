@@ -33,13 +33,9 @@ Here are some ideas to get you started:
     
     <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
     
-    #  🙋 Hello
-    <ul>
-        <li>大家好，我是PDBZz!热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</li>
-        <li>Hello, I am pdbzz! Love computer science and it Internet business, and aspire to be a senior programmer!</li>
-        <li></li>
-        <li></li>
-    </ul>
+    🙋 Hello
+        <p>大家好，我是PDBZz!热爱计算机科学和IT互联网事业，励志成为一名资深程序员!<p>
+        <p>Hello, I am pdbzz! Love computer science and it Internet business, and aspire to be a senior programmer!</p>
     
    
 </body>
