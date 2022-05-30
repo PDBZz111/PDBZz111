@@ -27,7 +27,8 @@ Here are some ideas to get you started:
     <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
     <div>你好，我是 PDb</div>
     <div>💬 如果你对我感兴趣,可以加我社交好友进一步交流</div>
-    <<a href="https://space.bilibili.com/404892962"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+    <br>
+    <a href="https://space.bilibili.com/404892962"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
     
    
 </body>
