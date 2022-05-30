@@ -22,10 +22,8 @@ Here are some ideas to get you started:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <div><img src="touxiang.gif"></div>
-    <p><center>欢迎来到PDB的个人主页</center></p>
-    <h6>Welcome to the home page of PDB</h6>
-    <center>欢迎来到PDB的个人主页</center>
+    <h1 align="center">Welcome to the home page of PDB</h1>
+    <h6 align="center">欢迎来到PDB的个人主页</h6>
     
    
     
